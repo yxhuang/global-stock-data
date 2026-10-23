@@ -40,7 +40,7 @@ A single self-contained Skill file that turns raw US stock data — scattered ac
 
 > *This project distributes **code, not market data**. Data is fetched by the user under each source's own terms. For commercial use, rely only on tier-S sources.*
 
-> Compatible with [Claude Code](https://github.com/anthropics/claude-code) · [Codex](https://github.com/openai/codex) · [OpenClaw](https://github.com/anthropics/openclaw). The Skill file is structured Markdown + embedded Python — any AI coding assistant with context injection can use it.
+> Compatible with [Claude Code](https://github.com/anthropics/claude-code) · [Codex](https://github.com/openai/codex) · [OpenClaw](https://github.com/openclaw/openclaw). The Skill file is structured Markdown + embedded Python — any AI coding assistant with context injection can use it.
 
 ---
 
